@@ -1,0 +1,65 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #4ecca3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 4%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
+.myButton {
+  margin-top: 5rem;
+  box-shadow: inset 0px 1px 0px 0px #fce2c1;
+  background: linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+  background-color: #ffc477;
+  border-radius: 6px;
+  border: 1px solid #eeb44f;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #cc9f52;
+}
+.myButton:hover {
+  background: linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+  background-color: #fb9e25;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
