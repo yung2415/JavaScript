@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-1. Dice game and Drum kit
+1. Dice game and Drum kit<br>
    HTML and CSS from the online course material. I rebuild the JavaScript part with jQuery.
    
-2. Todolist
+2. Todolist<br>
    I did this project with express, ejs, MongoDB, and mongoose following tutorial to gain experience with these tools.
    
-3. HTML and CSS from the online course material. I rebuild the JavaScript part.
+3. Guess my number <br>HTML and CSS from the online course material. I rebuild the JavaScript part.
