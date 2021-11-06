@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 1. Dice game<br>
    Make with jQuery. Generate random numbers and use them to choose items in an array to display a random dice. .
    
-2. Drum Kit(br>
+2. Drum Kit<br>
    Make with jQuery. Interreact with keys press down and mouse click and response with sound and animation effect.
    
 3. Todolist<br>
