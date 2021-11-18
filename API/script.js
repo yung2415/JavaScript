@@ -9,7 +9,6 @@ fetch(
     }
   })
   .then((data) => {
-    console.log(data);
     displayWeather(data);
   })
   .catch((error) => {
