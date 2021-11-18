@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 5. Blackjack game<br>
    Use python to make a backjack game, with exception case in the program. 
+   
+6. 9 days weather<br>
+   Connect to hk observatory API to get data and display on the website.
