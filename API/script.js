@@ -23,7 +23,7 @@ function displayWeather(data) {
   const { generalSituation, weatherForecast } = data;
   document.getElementById("general").innerHTML = generalSituation;
 
-  weatherForecast.map((element, i) => {
+  weatherForecast.reverse.map((element, i) => {
     const year = element.forecastDate.slice(0, 4);
     const month = element.forecastDate.slice(4, 6);
     const day = element.forecastDate.slice(6, 8);
