@@ -1,0 +1,28 @@
+body {
+  background-color: #000000;
+}
+
+h1 {
+  color: beige;
+}
+.container {
+  width: 75%;
+  height: 60%;
+  margin: auto;
+  background-color: #082032;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  color: azure;
+}
+
+.weatherCard {
+  background-color: #334756;
+  width: 30%;
+  height: auto;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 1%;
+  display: inline-block;
+  color: white;
+}
